@@ -1,4 +1,4 @@
 function mathFunction() {
-	return 4;
+	return 4 + 2;
 }
 
