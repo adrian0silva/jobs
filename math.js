@@ -1,4 +1,4 @@
-function adicionarJenkins() {
+function mathFunction() {
 	return 4;
 }
 
